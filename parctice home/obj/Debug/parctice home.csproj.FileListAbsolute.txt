@@ -1,0 +1,16 @@
+c:\users\mithu\documents\visual studio 2015\Projects\parctice home\parctice home\bin\Debug\parctice home.exe.config
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home.csprojResolveAssemblyReference.cache
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\MainWindow.g.cs
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\Result.g.cs
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\App.g.cs
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home_MarkupCompile.cache
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home_MarkupCompile.lref
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\bin\Debug\parctice home.exe
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\bin\Debug\parctice home.pdb
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\MainWindow.baml
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\Result.baml
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home.g.resources
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice_home.Properties.Resources.resources
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home.csproj.GenerateResource.Cache
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home.exe
+C:\Users\Mithu\documents\visual studio 2015\Projects\parctice home\parctice home\obj\Debug\parctice home.pdb

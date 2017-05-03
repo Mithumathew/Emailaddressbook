@@ -1,0 +1,16 @@
+﻿<!-- Final exam-question 1 
+    Elizabeth Mathew 7477417-->
+
+    <Window x:Class="parctice_home.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:parctice_home"
+        mc:Ignorable="d"
+        Title="Personnames" Height="350" Width="525">
+    <Grid>
+        <ListBox Name="Personname" HorizontalAlignment="Left" ItemsSource="{Binding Namelist}" Height="250" Margin="25" VerticalAlignment="Top" Width="465" SelectionChanged="Personname_SelectionChanged" />
+
+    </Grid>
+</Window>
